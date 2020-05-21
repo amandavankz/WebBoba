@@ -1,0 +1,89 @@
+h1 {
+  font-size: 5rem;
+  margin-bottom: 10%;
+  font-family: 'Merriweather', serif;
+}
+h2  {
+  font-family: 'Merriweather', serif;
+}
+h3  {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.navbar {
+  height: 130.375px;
+  padding: 1% 10%;
+  background-color: #85a392;
+  fo
+}
+.top-menu {
+  width: 250px;
+  height: 250px;
+
+}
+.link-area{
+  position:inherit;
+  margin: auto;
+  height: 70px;
+  width: 280px;
+  bottom:20px;
+  left:20px;
+  padding:15px;
+  border-radius:40px;
+  background:#85a392;
+}
+.link-area a
+{
+  text-decoration:none;
+  color: black;
+  font-size:150%;
+}
+#menu {
+  padding: 5% 15%;
+}
+.ttg-kami {
+  height: 250;
+  width: 250;
+  padding: 5% 20%;
+}
+#kontak {
+  background-color: #85a392;
+  padding: 5% 5%;
+  text-align: center;
+}
+#daftar-menu {
+  padding: 5% 10%;
+}
+.damun {
+  width: 200px;
+  height: 200px;
+}
+
+.text-black {
+  color: black;
+}
+.far {
+    font-size: 0.8rem;
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 400;
+}
+.btn {
+  background-color: white;
+  margin-top: 3%;
+  width: 150px;
+  border-radius: 40px;
+}
+.d-block {
+  height: 250px;
+  width: 250px;
+  float: right;
+}
+#hub {
+  width: 65%;
+  padding-bottom: 5%;s
+
+}
+.yea {
+  height: 500px;
+  width: 500px;
+}
